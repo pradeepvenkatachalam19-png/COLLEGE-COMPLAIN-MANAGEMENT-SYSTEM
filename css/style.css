@@ -39,3 +39,4 @@ table{width:100%;border-collapse:collapse;font-size:14px}th,td{text-align:left;p
 .tl{border-left:3px solid var(--blue);margin:14px 0 0 8px;padding-left:16px}.tl div{margin-bottom:12px;font-size:14px}
 .toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:#10244f;color:#fff;padding:12px 22px;border-radius:24px;z-index:9}.toast.err{background:#b42323}
 @media(max-width:760px){.hero,.two,.feats,.stats{grid-template-columns:1fr}.art{display:none}.layout{flex-direction:column}.side{width:auto;display:flex;overflow:auto}.nav{display:none}.hero h1{font-size:32px}.main{overflow-x:auto}}
+.logo{font-size:0;width:48px;height:48px;background:#fff url(../assets/logo.png) center/contain no-repeat}
